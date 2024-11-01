@@ -1,7 +1,5 @@
 # 👩‍💻 Portfólio
 
-![Eu](./assets/images/avatar.jpg){: width="200px"}
-
 Bem-vindo ao meu portfólio! Este projeto foi desenvolvido durante o bootcamp da DIO, sob a orientação da instrutora mentora Elidiana Andrade.
 
 
